@@ -3,7 +3,7 @@ id: yokogaki-nigari
 name: nigari
 tagline: Documents and databases, for people and their agents
 category: files
-version: "2.1.34"
+version: "2.1.37"
 port: 8420
 description: >-
   nigari is a workspace for documents and databases that you run yourself: pages
@@ -35,7 +35,7 @@ icon: https://raw.githubusercontent.com/neatlittlemacapps/yokogaki-umbrel/main/y
 # None are invented here; Umbrel shows the app without a gallery until then.
 gallery: []
 releaseNotes: >-
-  See https://github.com/neatlittlemacapps/nigari/releases/tag/v2.1.34
+  See https://github.com/neatlittlemacapps/nigari/releases/tag/v2.1.37
 dependencies: []
 path: ""
 defaultUsername: ""
