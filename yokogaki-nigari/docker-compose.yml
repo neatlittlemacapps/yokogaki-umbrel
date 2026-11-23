@@ -18,7 +18,7 @@ services:
   server:
     # Pinned by digest: the tag can be moved, the digest cannot. Both chips
     # Umbrel runs on are in this image index (linux/amd64, linux/arm64).
-    image: ghcr.io/neatlittlemacapps/nigari:2.1.58@sha256:b6cd5416f487b47fce59714be1f9375796f47a760b7f5c3d25d0379515318b78
+    image: ghcr.io/neatlittlemacapps/nigari:2.1.60@sha256:f5d649238c3415b9985a881e04ec0d0e1deec033ab1d2659771ab83aa986baaf
     # The image's own user, and the owner Umbrel gives the app's data folder.
     user: "1000:1000"
     restart: on-failure
